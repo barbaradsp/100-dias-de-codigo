@@ -9,3 +9,7 @@ Repositório criado para o projeto #100DiasDeCodigo promovido pela comunidade He
 **003** - Estudo sobre os algoritmos linear search e binary search
 
 **004** - Estudo sobre o design pattern MVC (Model-View-Controller)
+
+**005** - Desenvolvimento do back-end de um cardápio digital
+
+**006** - Desenvolvimento do front-end de um cardápio digital
