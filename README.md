@@ -15,3 +15,5 @@ Repositório criado para o projeto #100DiasDeCodigo promovido pela comunidade He
 **006** - Desenvolvimento do front-end de um cardápio digital
 
 **007** - Treino de queries SQL utilizando o SQL Murder Mystery (https://mystery.knightlab.com/)
+
+**008** - Estudo sobre Programação Orientada a Objetos 
